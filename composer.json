@@ -1,6 +1,7 @@
 {
     "name": "makville/php-request-headers",
     "version": "1.0.0",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Makville\\RequestHeaders\\": "src"
