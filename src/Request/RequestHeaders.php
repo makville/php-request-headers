@@ -1,5 +1,5 @@
 <?php
-namespace Makville\RequestHeaders\Request;
+namespace Request;
 
 class RequestHeaders {
 
