@@ -1,5 +1,14 @@
 {
     "name": "makville/php-request-headers",
     "version": "1.0.0",
-    "license": "MIT"
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ayo Makanjuola",
+            "email": "ayomakanjuola@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"Makville\\PhpRequestHeaders": "src/"}
+    },
 }
