@@ -9,6 +9,6 @@
         }
     ],
     "autoload": {
-        "psr-0": {"Makville\\PhpRequestHeaders": "src/"}
-    },
+        "psr-4": {"Makville\\PhpRequestHeaders": "src/"}
+    }
 }
